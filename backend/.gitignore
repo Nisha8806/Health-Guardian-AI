@@ -1,0 +1,6 @@
+node_modules
+.env
+uploads/avatars/*
+uploads/prescriptions/*
+!uploads/avatars/.gitkeep
+!uploads/prescriptions/.gitkeep
